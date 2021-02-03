@@ -2,7 +2,7 @@
 
 SELECT id, name 
 FROM students   
-WHERE cohort_id = 11;  --Use WHERE to filter 
+WHERE cohort_id = 11  --Use WHERE to filter 
 ORDER BY name;  -- will order tha names 
 
 
